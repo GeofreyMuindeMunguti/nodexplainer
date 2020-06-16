@@ -11,7 +11,6 @@
 - Run project
 >- npm start server.js
 
-
 ### Covered
 
 - Creating a model using mongoose for mongoDB
@@ -22,6 +21,8 @@
 ### Recommended follow up topics to learn
 
 - Fileupload
+- Socket connections
+- Caching
 - Doing Os level commands using cron
 - Deployment (Containerization using Docker or using a pm2 which runs a node instance as a background services)
 - Load balancing (Sharing traffic among several instances)
